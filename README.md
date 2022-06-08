@@ -1,5 +1,5 @@
 ## Oi! Eu sou Leonardo Machado. 😊
-- ✏️ Trabalho tanto com front-end quanto com back-end
+- ✏️ Trabalho melhor com back-end
 - 📫 Entre em contato em: leobatista2807@gmail.com
 
 <div align="center">
