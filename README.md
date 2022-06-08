@@ -1,6 +1,5 @@
 ## Oi! Eu sou Leonardo Machado. 😊
 - ✏️ Trabalho tanto com front-end quanto com back-end
-- 🌱 Atualmente estou me aprofundando em JavaScript e seus frameworks, além de Java e Python.
 - 📫 Entre em contato em: leobatista2807@gmail.com
 
 <div align="center">
