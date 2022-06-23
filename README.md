@@ -1,5 +1,5 @@
 ## Oi! Eu sou Leonardo Machado. 😊
-- ✏️ Trabalho com web
+
 - 📫 Entre em contato em: leobatista2807@gmail.com
 
 <div align="center">
