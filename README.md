@@ -1,6 +1,6 @@
-## Oi! Eu sou Leonardo Machado. 😊
+## Oi! Eu sou Leonardo Machado. 
 
-- 📫 Entre em contato em: leobatista2807@gmail.com
+- Desenvolvedor C# | ASP.NET @Sucesso Eventos.
 
 <div align="center">
   <a href="https://github.com/leonemac">
